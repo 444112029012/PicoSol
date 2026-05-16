@@ -33,7 +33,7 @@ call sym.imp.strtol         ; long strtol(const char *str, char * *endptr, int b
 ```
 ### 4. 解題
 連線官方位址後，輸入16進位大於999的值(如:fff)
-####key: }3f3ftc_oc_ip1ac6ftc_oc_ip4_99ftc_oc_ip9_TGftc_oc_ip_xehftc_oc_ip_tigftc_oc_ipid_3ftc_oc_ip{FTCftc_oc_ipocipftc_oc_ip
+#### key: }3f3ftc_oc_ip1ac6ftc_oc_ip4_99ftc_oc_ip9_TGftc_oc_ip_xehftc_oc_ip_tigftc_oc_ipid_3ftc_oc_ip{FTCftc_oc_ipocipftc_oc_ip
 
 ### 5. 觀察reveal_flag
 ```Bash
